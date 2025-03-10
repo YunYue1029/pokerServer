@@ -1,0 +1,14 @@
+[
+    {
+        "player_id": 1,
+        "name": "123",
+        "player_card_1": "Ace_of_Spade",
+        "player_card_2": "Three_of_Hearts"
+    },
+    {
+        "player_id": 2,
+        "name": "qwe",
+        "player_card_1": "Six_of_Hearts",
+        "player_card_2": "Five_of_Spades"
+    }
+]

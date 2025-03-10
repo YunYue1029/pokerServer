@@ -1,0 +1,319 @@
+[
+
+    {
+        "card":"Ace_of_Spade",
+        "card_ID": "1",
+        "color" : "spade",
+        "number" : "1"
+    },
+    {
+        "card":"Two_of_Spades",
+        "card_ID": "2",
+        "color" : "spade",
+        "number" : "2"
+    },
+    {
+        "card":"Three_of_Spades",
+        "card_ID": "3",
+        "color" : "spade",
+        "number" : "3"
+    },
+    {
+        "card":"Four_of_Spades",
+        "card_ID": "4",
+        "color" : "spade",
+        "number" : "4"
+    },
+    {
+        "card":"Five_of_Spades",
+        "card_ID": "5",
+        "color" : "spade",
+        "number" : "5"
+    },
+    {
+        "card":"Six_of_Spades",
+        "card_ID": "6",
+        "color" : "spade",
+        "number" : "6"
+    },
+    {
+        "card":"Seven_of_Spades",
+        "card_ID": "7",
+        "color" : "spade",
+        "number" : "7"
+    },
+    {
+    "card":"Eight_of_Spades",
+    "card_ID": "8",
+    "color" : "spade",
+    "number" : "8"
+    },
+    {
+    "card":"Nine_of_Spades",
+    "card_ID": "9",
+    "color" : "spade",
+    "number" : "9"
+    },
+    {
+    "card":"Ten_of_Spades",
+    "card_ID": "10",
+    "color" : "spade",
+    "number" : "10"
+    },
+    {
+    "card":"Jack_of_Spades",
+    "card_ID": "11",
+    "color" : "spade",
+    "number" : "11"
+    },
+    {
+    "card":"Queen_of_Spades",
+    "card_ID": "12",
+    "color" : "spade",
+    "number" : "12"
+    },
+    {
+    "card":"King_of_Spades",
+    "card_ID": "13",
+    "color" : "spade",
+    "number" : "13"
+    },
+
+
+    {
+    "card":"Ace_of_Heart",
+    "card_ID": "14",
+    "color" : "heart",
+    "number" : "1"
+    },
+    {
+    "card":"Two_of_Hearts",
+    "card_ID": "15",
+    "color" : "heart",
+    "number" : "2"
+    },
+    {
+    "card":"Three_of_Hearts",
+    "card_ID": "16",
+    "color" : "heart",
+    "number" : "3"
+    },
+    {
+    "card":"Four_of_Hearts",
+    "card_ID": "17",
+    "color" : "heart",
+    "number" : "4"
+    },
+    {
+    "card":"Five_of_Hearts",
+    "card_ID": "18",
+    "color" : "heart",
+    "number" : "5"
+    },
+    {
+    "card":"Six_of_Hearts",
+    "card_ID": "19",
+    "color" : "heart",
+    "number" : "6"
+    },
+    {
+    "card":"Seven_of_Hearts",
+    "card_ID": "20",
+    "color" : "heart",
+    "number" : "7"
+    },
+    {
+    "card":"Eight_of_Hearts",
+    "card_ID": "21",
+    "color" : "heart",
+    "number" : "8"
+    },
+    {
+    "card":"Nine_of_Hearts",
+    "card_ID": "22",
+    "color" : "heart",
+    "number" : "9"
+    },
+    {
+    "card":"Ten_of_Hearts",
+    "card_ID": "23",
+    "color" : "heart",
+    "number" : "10"
+    },
+    {
+    "card":"Jack_of_Hearts",
+    "card_ID": "24",
+    "color" : "heart",
+    "number" : "11"
+    },
+    {
+    "card":"Queen_of_Hearts",
+    "card_ID": "25",
+    "color" : "heart",
+    "number" : "12"
+    },
+    {
+    "card":"King_of_Hearts",
+    "card_ID": "26",
+    "color" : "heart",
+    "number" : "13"
+    },
+
+
+    {
+    "card":"Ace_of_Diamond",
+    "card_ID": "27",
+    "color" : "diamond",
+    "number" : "1"
+    },
+    {
+    "card":"Two_of_Diamonds",
+    "card_ID": "28",
+    "color" : "diamond",
+    "number" : "2"
+    },
+    {
+    "card":"Three_of_Diamonds",
+    "card_ID": "29",
+    "color" : "diamond",
+    "number" : "3"
+    },
+    {
+    "card":"Four_of_Diamonds",
+    "card_ID": "30",
+    "color" : "diamond",
+    "number" : "4"
+    },
+    {
+    "card":"Five_of_Diamonds",
+    "card_ID": "31",
+    "color" : "diamond",
+    "number" : "5"
+    },
+    {
+    "card":"Six_of_Diamonds",
+    "card_ID": "32",
+    "color" : "diamond",
+    "number" : "6"
+    },
+    {
+    "card":"Seven_of_Diamonds",
+    "card_ID": "33",
+    "color" : "diamond",
+    "number" : "7"
+    },
+    {
+    "card":"Eight_of_Diamonds",
+    "card_ID": "34",
+    "color" : "diamond",
+    "number" : "8"
+    },
+    {
+    "card":"Nine_of_Diamonds",
+    "card_ID": "35",
+    "color" : "diamond",
+    "number" : "9"
+    },
+    {
+    "card":"Ten_of_Diamonds",
+    "card_ID": "36",
+    "color" : "diamond",
+    "number" : "10"
+    },
+    {
+    "card":"Jack_of_Diamonds",
+    "card_ID": "37",
+    "color" : "diamond",
+    "number" : "11"
+    },
+    {
+    "card":"Queen_of_Diamonds",
+    "card_ID": "38",
+    "color" : "diamond",
+    "number" : "12"
+    },
+    {
+    "card":"King_of_Diamonds",
+    "card_ID": "39",
+    "color" : "diamond",
+    "number" : "13"
+    },
+    {
+    "card":"Ace_of_Club",
+    "card_ID": "40",
+    "color" : "club",
+    "number" : "1"
+    },
+    {
+    "card":"Two_of_Clubs",
+    "card_ID": "41",
+    "color" : "club",
+    "number" : "2"
+    },
+    {
+    "card":"Three_of_Clubs",
+    "card_ID": "42",
+    "color" : "club",
+    "number" : "3"
+    },
+    {
+    "card":"Four_of_Clubs",
+    "card_ID": "43",
+    "color" : "club",
+    "number" : "4"
+    },
+    {
+    "card":"Five_of_Clubs",
+    "card_ID": "44",
+    "color" : "club",
+    "number" : "5"
+    },
+    {
+    "card":"Six_of_Clubs",
+    "card_ID": "45",
+    "color" : "club",
+    "number" : "6"
+    },
+    {
+    "card":"Seven_of_Clubs",
+    "card_ID": "46",
+    "color" : "club",
+    "number" : "7"
+    },
+    {
+    "card":"Eight_of_Clubs",
+    "card_ID": "47",
+    "color" : "club",
+    "number" : "8"
+    },
+    {
+    "card":"Nine_of_Clubs",
+    "card_ID": "48",
+    "color" : "club",
+    "number" : "9"
+    },
+    {
+    "card":"Ten_of_Clubs",
+    "card_ID": "49",
+    "color" : "club",
+    "number" : "10"
+    },
+    {
+    "card":"Jack_of_Clubs",
+    "card_ID": "50",
+    "color" : "club",
+    "number" : "11"
+    },
+    {
+    "card":"Queen_of_Clubs",
+    "card_ID": "51",
+    "color" : "club",
+    "number" : "12"
+    },
+    {
+    "card":"King_of_Clubs",
+    "card_ID": "52",
+    "color" : "club",
+    "number" : "13"
+    }
+]
